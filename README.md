@@ -1,3 +1,3 @@
 # Bigram-Model-for-Language-Identification  
 
-# Please read README.pdf  
+Please read README.pdf  
